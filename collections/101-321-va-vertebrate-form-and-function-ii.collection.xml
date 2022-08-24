@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Fallah H. Chit">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11850</md:content-id>
     <md:title>101-321-VA - Vertebrate Form and Function II</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>61181d31-dbc9-474c-8b8f-523531b59ffe</md:uuid>
-<md:slug>101-321-va-vertebrate-form-and-function-ii</md:slug>
-</metadata>
+    <md:slug>101-321-va-vertebrate-form-and-function-ii</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Circulatory System</md:title>
